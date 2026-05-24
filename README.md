@@ -14,7 +14,7 @@
 
 🎓 1st Year Data Science & Analytics Student  
 📊 Passionate about Data Analysis & Visualization  
-💻 Currently learning Python, SQL, Machine Learning & Power BI  
+💻 Currently learning Python, SQL & Machine Learning 
 🚀 Love building beginner-friendly real-world projects  
 📈 Interested in AI, Analytics & Problem Solving  
 🌱 Improving coding and analytical skills every day  
