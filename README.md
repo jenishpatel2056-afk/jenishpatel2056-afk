@@ -62,6 +62,11 @@
 🔹 Healthcare Management System  
 🏥 Developed a healthcare management system focused on managing patient records, appointments, and healthcare data efficiently
 
+🔹 VidyaAmrit School Management System  
+🏫 Developed a smart school management solution focused on improving student, teacher, and academic management processes efficiently
+
+🔹 Swad Sansar Food Court  
+🍔 Designed and developed a responsive food court website to display food menus, services, and customer-friendly features with an attractive UI
 
 ---
 
