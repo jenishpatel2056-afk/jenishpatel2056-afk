@@ -57,20 +57,11 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects & Competitions
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jenishpatel2056-afk&show_icons=true&theme=tokyonight)
+🔹 Healthcare Management System  
+🏥 Developed a healthcare management system focused on managing patient records, appointments, and healthcare data efficiently
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jenishpatel2056-afk&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 Featured Projects
-
-🔹 Data Analysis Projects  
-🔹 Python Mini Projects  
-🔹 SQL Practice Queries  
-🔹 Machine Learning Beginner Projects  
 
 ---
 
