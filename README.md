@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hey, I'm Jenish</h1>
+<h1 align="left">👋 Hey, I'm Jenish</h1>
 
 
 <p align="center">
