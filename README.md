@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics;Python+%7C+SQL+%7C+Machine+Learning;Future+Data+Scientist+🚀" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytic+Student;Python+%7C+SQL+%7C+Machine+Learning;Future+Data+Scientist+🚀" />
 </p>
 
 <!-- <h3 align="center">📊 Data Science & Analytics Student</h3>
