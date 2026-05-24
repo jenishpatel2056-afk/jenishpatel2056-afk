@@ -2,11 +2,16 @@
 
 <h1 align="center">👋 Hey, I'm Jenish</h1>
 
-<h3 align="center">📊 Data Science & Analytics Student</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Data+Science+%26+Analytics;Python+%7C+SQL+%7C+Machine+Learning;Future+Data+Scientist+🚀" />
+</p>
+
+<!-- <h3 align="center">📊 Data Science & Analytics Student</h3>
 
 <p align="center">
   🚀 Learning • Building • Analyzing • Growing
-</p>
+</p> -->
 
 ---
 
@@ -32,9 +37,24 @@
 - Git & GitHub 🌐
 
 ---
+
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]( www.linkedin.com/in/jenish-patel-b47817384)
+<p align="left">
+  <a href="https://www.linkedin.com/in/jenish-patel-b47817384?utm_source=share_via&utm_content=profile&utm_medium=member_android">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="jenish.patel2056@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]( www.linkedin.com/in/jenish-patel-b47817384 
 
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](jenish.patel2056@gmail.com)
 
